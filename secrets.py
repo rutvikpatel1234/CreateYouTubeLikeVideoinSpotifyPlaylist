@@ -1,0 +1,2 @@
+spotify_token = "BQBmeEI2836KtMjPEsxwMS3UyCHQ4A1bbI56Og4Do69GSxTg58JwsLxL6eIKI4fLePEgFfNzOTpUO1KhdTXiFIlAFNw3BvNYYVInI7eJRWOentdpC_l"
+spotify_user_id = "22egght4vtp3fw3sgcuamf2zy"
